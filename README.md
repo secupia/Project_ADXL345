@@ -25,4 +25,7 @@
 - Library for ADXL345 3-axis accelometer
   https://github.com/ImanHz
   
+- Arduino and ADXL345 Accelerometer - 3D Visualization Example 
+  https://howtomechatronics.com
+  
   
