@@ -1,0 +1,6 @@
+ap.c:21:6:adxl_write	32	static
+ap.c:31:6:adxl_read_values	32	static
+ap.c:41:6:adxl_read_address	32	static
+ap.c:46:6:adxl_init	8	static
+ap.c:60:6:apInit	8	static
+ap.c:65:6:apMain	16	static
