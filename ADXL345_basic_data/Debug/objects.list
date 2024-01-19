@@ -9,6 +9,7 @@
 "src/bsp/driver/usart.o"
 "src/bsp/startup/startup_stm32f103xb.o"
 "src/hw/driver/ADXL345.o"
+"src/hw/driver/led.o"
 "src/hw/hw.o"
 "src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o"
 "src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o"

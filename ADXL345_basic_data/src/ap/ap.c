@@ -80,7 +80,8 @@ void apMain(void)
   while(1)
   {
     //printf("STM32F103RB-Nucleo!!\r\n");
-    HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
+    ledToggle(_DEF_LED1);
+
     //adxl_init();
     adxl_read_values(0x32);
 
@@ -111,12 +112,12 @@ void apMain(void)
     pitchF = 0.94 * pitchF + 0.06 * pitch;
 
     printf("%f / %f \r\n", rollF, pitchF);
-    HAL_Delay(10);
+    delay_ms(10);
 #else
     printf(">xg: %f \r\n", xg);
     printf(">yg: %f \r\n", yg);
     printf(">zg: %f \r\n", zg);
-    HAL_Delay(10);
+    delay_ms(10);
 #endif
   }
 

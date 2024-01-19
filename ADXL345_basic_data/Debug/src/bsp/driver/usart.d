@@ -33,12 +33,6 @@ src/bsp/driver/usart.o: ../src/bsp/driver/usart.c \
  D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/main.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/ap/ap.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/ADXL345.h \
- D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/i2c.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/usart.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/gpio.h
@@ -110,18 +104,6 @@ D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx
 D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h:
 
 D:/Project_ADXL345/ADXL345_basic_data/src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/main.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/ap/ap.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/ADXL345.h:
-
-D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h:
 
 D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/i2c.h:
 

@@ -41,6 +41,7 @@ src/bsp/stm32f1xx_it.o: ../src/bsp/stm32f1xx_it.c \
  D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/gpio.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/ADXL345.h \
  D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h \
+ D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/led.h \
  ../src/bsp/stm32f1xx_it.h
 
 D:/Project_ADXL345/ADXL345_basic_data/src/main.h:
@@ -126,5 +127,7 @@ D:/Project_ADXL345/ADXL345_basic_data/src/bsp/driver/gpio.h:
 D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/ADXL345.h:
 
 D:/Project_ADXL345/ADXL345_basic_data/src/hw/hw_def.h:
+
+D:/Project_ADXL345/ADXL345_basic_data/src/common/hw/includwe/led.h:
 
 ../src/bsp/stm32f1xx_it.h:

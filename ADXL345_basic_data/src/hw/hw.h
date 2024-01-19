@@ -11,6 +11,7 @@
 #include "hw_def.h"
 
 #include "ADXL345.h"
+#include "led.h"
 
 void hwInit(void);
 

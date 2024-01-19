@@ -11,7 +11,7 @@
 #include "def.h"
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f1xx_hal.h"
+#include "stm32f1xx_hal.h"    // Use HAL Driver
 #include "stm32f1xx.h"
 
 #include "stm32f1xx_ll_usart.h"
@@ -23,10 +23,8 @@
 #include "stm32f1xx_ll_utils.h"
 #include "stm32f1xx_ll_pwr.h"
 #include "stm32f1xx_ll_dma.h"
-#include "stm32f1xx.h"
 #include "stm32f1xx_ll_gpio.h"
 
-#include "main.h"
 #include "i2c.h"
 #include "usart.h"
 #include "gpio.h"
@@ -34,6 +32,8 @@
 /* Private defines -----------------------------------------------------------*/
 #define LD2_Pin GPIO_PIN_5
 #define LD2_GPIO_Port GPIOA
+
+void delay_ms(uint32_t delay);
 
 void bspInit(void);
 void Error_Handler(void);

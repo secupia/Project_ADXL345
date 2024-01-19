@@ -27,5 +27,6 @@ src/bsp/startup \
 src/hw/driver \
 src/hw \
 src/lib/cubeMX520_f103rb/Drivers/STM32F1xx_HAL_Driver/Src \
+src/lib/cubeMX520_f103rb \
 src \
 

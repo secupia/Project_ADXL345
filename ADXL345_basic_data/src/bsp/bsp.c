@@ -9,6 +9,11 @@
 
 void SystemClock_Config(void);
 
+void delay_ms(uint32_t delay)
+{
+  HAL_Delay(delay);
+}
+
 void bspInit(void)
 {
 
